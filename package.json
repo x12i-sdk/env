@@ -1,0 +1,22 @@
+{
+  "name": "env-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/env: normalize a typed environment variable into application configuration.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/env": "4.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/env.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/env"
+}

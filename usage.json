@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/env",
+  "packageVersion": "4.0.3",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/env",
+  "usageRepository": "https://github.com/x12i-sdk/env",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Normalize a typed environment variable into application configuration",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:14:56.580455+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "d13b3686df8977ae949e9c6a5960689865c24381b32131a6a41b364537b5c846",
+    "manifestSha256": "74ddb0ffd1ad6e38b6c3d4014eee75a680d2d7ff6289099d15dbbf4e170a67f3"
+  }
+}
