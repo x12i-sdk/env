@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Configuration normalizer for Node.js - Zero dependencies, TypeScript-first, production-ready.
-- A Env integration needs to reuse the capabilities of @x12i/env inside a larger application.
+- Normalize typed environment values into a nested configuration object.
+- Combine supported configuration sources while retaining validation errors and fallback information.
 
 ## Links
 
